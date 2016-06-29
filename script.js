@@ -6,3 +6,4 @@ function add(a, b) {
 }
 
 console.log(sum);
+//Added by user2
